@@ -1,0 +1,431 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="ESPN (East Server)" tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="SPORTS NETWORKS",ESPN (East Server)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1262
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="ESPN (West Server)" tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="SPORTS NETWORKS",ESPN (West Server)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/86502
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="ESPN Backup" tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="SPORTS NETWORKS",ESPN Backup
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1709
+#EXTINF:-1 tvg-ID="espn2.us" tvg-name="ESPN2 " tvg-logo="http://primestreamstv.com/logos/ESPN%202.png" group-title="SPORTS NETWORKS",ESPN2 
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/95868
+#EXTINF:-1 tvg-ID="espnnews.us" tvg-name="ESPN NEWS" tvg-logo="http://primestreamstv.com/logos/ESPN%20NEWS.png" group-title="SPORTS NETWORKS",ESPN NEWS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1275
+#EXTINF:-1 tvg-ID="espnu.us" tvg-name="ESPN U" tvg-logo="http://primestreamstv.com/logos/ESPN%20U.png" group-title="SPORTS NETWORKS",ESPN U
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1274
+#EXTINF:-1 tvg-ID="espnclassics.us" tvg-name="ESPN CLASSIC" tvg-logo="http://primestreamstv.com/logos/VIP%20ESPN%20CLASSIC%20CA.png" group-title="SPORTS NETWORKS",ESPN CLASSIC
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110098
+#EXTINF:-1 tvg-ID="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="http://primestreamstv.com/logos/FS1.png" group-title="SPORTS NETWORKS",FOX SPORTS 1
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1367
+#EXTINF:-1 tvg-ID="foxsports1.us" tvg-name="FOX SPORTS 1 Low" tvg-logo="http://primestreamstv.com/logos/FS1.png" group-title="SPORTS NETWORKS",FOX SPORTS 1 Low
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/109151
+#EXTINF:-1 tvg-ID="foxsports2.us" tvg-name="FOX SPORTS 2" tvg-logo="http://primestreamstv.com/logos/FS2.png" group-title="SPORTS NETWORKS",FOX SPORTS 2
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/38483
+#EXTINF:-1 tvg-ID="foxsports2.us" tvg-name="FOX SPORTS 2 Low" tvg-logo="http://primestreamstv.com/logos/FS2.png" group-title="SPORTS NETWORKS",FOX SPORTS 2 Low
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/109152
+#EXTINF:-1 tvg-ID="nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="https://www.tvweek.com/wp-content/uploads/2016/06/nfl-network-logo.jpg" group-title="SPORTS NETWORKS",NFL NETWORK
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1402
+#EXTINF:-1 tvg-ID="nflnetwork.us" tvg-name="NFL NETWORK Low" tvg-logo="https://www.tvweek.com/wp-content/uploads/2016/06/nfl-network-logo.jpg" group-title="SPORTS NETWORKS",NFL NETWORK Low
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/109187
+#EXTINF:-1 tvg-ID="nbatv.us" tvg-name="NBA TV" tvg-logo="http://primestreamstv.com/logos/NBATVHD.png" group-title="SPORTS NETWORKS",NBA TV
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/29485
+#EXTINF:-1 tvg-ID="nbatv.us" tvg-name="NBA TV Low" tvg-logo="http://primestreamstv.com/logos/NBATVHD.png" group-title="SPORTS NETWORKS",NBA TV Low
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/109182
+#EXTINF:-1 tvg-ID="mlbnetwork.us" tvg-name="MLB NETWORK" tvg-logo="http://primestreamstv.com/logos/MLB.png" group-title="SPORTS NETWORKS",MLB NETWORK
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1389
+#EXTINF:-1 tvg-ID="nhlnetwork.us" tvg-name="NHL NETWORK" tvg-logo="http://primestreamstv.com/logos/NHL%20Network.png" group-title="SPORTS NETWORKS",NHL NETWORK
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1612
+#EXTINF:-1 tvg-ID="golfchannel.us" tvg-name="GOLF CHANNEL" tvg-logo="http://primestreamstv.com/logos/GOLF.png" group-title="SPORTS NETWORKS",GOLF CHANNEL
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1479
+#EXTINF:-1 tvg-ID="golfchannel.us" tvg-name="GOLF CHANNEL Low" tvg-logo="http://primestreamstv.com/logos/GOLF.png" group-title="SPORTS NETWORKS",GOLF CHANNEL Low
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/109159
+#EXTINF:-1 tvg-ID="tennischannel.us" tvg-name="TENNIS CHANNEL" tvg-logo="http://primestreamstv.com/logos/Tennis%20Channel%20HD.png" group-title="SPORTS NETWORKS",TENNIS CHANNEL
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/31209
+#EXTINF:-1 tvg-ID="tennischannel.us" tvg-name="TENNIS CHANNEL Low" tvg-logo="http://primestreamstv.com/logos/Tennis%20Channel%20HD.png" group-title="SPORTS NETWORKS",TENNIS CHANNEL Low
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/109215
+#EXTINF:-1 tvg-ID="tvg.us" tvg-name="TVG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/TVG_logo.svg/180px-TVG_logo.svg.png" group-title="SPORTS NETWORKS",TVG
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/35449
+#EXTINF:-1 tvg-ID="tvg.us" tvg-name="TVG Low" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/TVG_logo.svg/180px-TVG_logo.svg.png" group-title="SPORTS NETWORKS",TVG Low
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/109225
+#EXTINF:-1 tvg-ID="tvg2.us" tvg-name="TVG 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/TVG_logo.svg/180px-TVG_logo.svg.png" group-title="SPORTS NETWORKS",TVG 2
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/97589
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT CHANNEL" tvg-logo="https://i.pinimg.com/originals/f6/c2/8c/f6c28cd1c0b0be354257843aa1351596.jpg" group-title="SPORTS NETWORKS",FIGHT CHANNEL
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110092
+#EXTINF:-1 tvg-ID="fightnetwork.us" tvg-name="FIGHT NETWORK" tvg-logo="http://primestreamstv.com/logos/Fight%20Network.png" group-title="SPORTS NETWORKS",FIGHT NETWORK
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/29193
+#EXTINF:-1 tvg-ID="" tvg-name="FITE 24/7" tvg-logo="https://411mania.com/wp-content/uploads/2017/10/FITE-TV-645x369.png" group-title="SPORTS NETWORKS",FITE 24/7
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/109098
+#EXTINF:-1 tvg-ID="UFC.247" tvg-name="UFC TV" tvg-logo="http://primestreamstv.com/logos/UFC%20Network.png" group-title="SPORTS NETWORKS",UFC TV
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33843
+#EXTINF:-1 tvg-ID="UFC1.UFC" tvg-name="UFC FIGHT PASS 1" tvg-logo="http://primestreamstv.com/logos/UFCFIGHTPASS.png" group-title="SPORTS NETWORKS",UFC FIGHT PASS 1
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/102578
+#EXTINF:-1 tvg-ID="UFC2.UFC" tvg-name="UFC FIGHT PASS 2" tvg-logo="http://primestreamstv.com/logos/UFCFIGHTPASS.png" group-title="SPORTS NETWORKS",UFC FIGHT PASS 2
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/96165
+#EXTINF:-1 tvg-ID="UFC3.UFC" tvg-name="UFC FIGHT PASS 3" tvg-logo="http://primestreamstv.com/logos/UFCFIGHTPASS.png" group-title="SPORTS NETWORKS",UFC FIGHT PASS 3
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/96166
+#EXTINF:-1 tvg-ID="UFC4.UFC" tvg-name="UFC FIGHT PASS 4" tvg-logo="http://primestreamstv.com/logos/UFCFIGHTPASS.png" group-title="SPORTS NETWORKS",UFC FIGHT PASS 4
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/96167
+#EXTINF:-1 tvg-ID="UFC5.UFC" tvg-name="UFC FIGHT PASS 5" tvg-logo="http://primestreamstv.com/logos/UFCFIGHTPASS.png" group-title="SPORTS NETWORKS",UFC FIGHT PASS 5
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/102579
+#EXTINF:-1 tvg-ID="impact.us" tvg-name="IMPACT WRESTLING" tvg-logo="https://www.pwmania.com/wp-content/uploads/2020/05/Impact-Wrestling.jpg" group-title="SPORTS NETWORKS",IMPACT WRESTLING
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/111200
+#EXTINF:-1 tvg-ID="WWE.247" tvg-name="WWE" tvg-logo="http://primestreamstv.com/logos/WWE.png" group-title="SPORTS NETWORKS",WWE
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/36372
+#EXTINF:-1 tvg-ID="" tvg-name="ALTITUDE SPORTS" tvg-logo="http://primestreamstv.com/logos/Altitude.Sports.jpg" group-title="SPORTS NETWORKS",ALTITUDE SPORTS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/111008
+#EXTINF:-1 tvg-ID="atandtsportsnetpittsburgh.us" tvg-name="AT&T SPORTSNET PITTSBURGH" tvg-logo="https://mms.businesswire.com/media/20190305005730/en/683423/23/ATTSN_logo_on_White.jpg" group-title="SPORTS NETWORKS",AT&T SPORTSNET PITTSBURGH
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110727
+#EXTINF:-1 tvg-ID="atandtsportsnetrockymountain.us" tvg-name="AT&T SPORTSNET ROCKY MOUNTAIN" tvg-logo="https://mms.businesswire.com/media/20190305005730/en/683423/23/ATTSN_logo_on_White.jpg" group-title="SPORTS NETWORKS",AT&T SPORTSNET ROCKY MOUNTAIN
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110726
+#EXTINF:-1 tvg-ID="atandtsportsnetsouthwest.us" tvg-name="AT&T SPORTSNET SOUTHWEST" tvg-logo="http://primestreamstv.com/logos/USA/attsportsnetsouthwest.png" group-title="SPORTS NETWORKS",AT&T SPORTSNET SOUTHWEST
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/96149
+#EXTINF:-1 tvg-ID="marqueesportsnetwork.us" tvg-name="MARQUEE SPORTS NETWORK" tvg-logo="https://www.marqueesportsnetwork.com/wp-content/uploads/2020/06/Marquee-Sports-Network-logo-red-bkg.jpg" group-title="SPORTS NETWORKS",MARQUEE SPORTS NETWORK
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/108170
+#EXTINF:-1 tvg-ID="MASN.us" tvg-name="MASN" tvg-logo="https://www.masnsports.com/assets/prod/src/img/template/icons/masn-image-large.png" group-title="SPORTS NETWORKS",MASN
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/97420
+#EXTINF:-1 tvg-ID="MASN2.us" tvg-name="MASN 2" tvg-logo="https://www.masnsports.com/assets/prod/src/img/template/icons/masn-image-large.png" group-title="SPORTS NETWORKS",MASN 2
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/97421
+#EXTINF:-1 tvg-ID="madisonsquaregarden.us" tvg-name="MSG" tvg-logo="http://primestreamstv.com/logos/MSG%20Network.png" group-title="SPORTS NETWORKS",MSG
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33474
+#EXTINF:-1 tvg-ID="madisonsquaregardenplus.us" tvg-name="MSG PLUS" tvg-logo="http://primestreamstv.com/logos/msgplus.png" group-title="SPORTS NETWORKS",MSG PLUS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/38593
+#EXTINF:-1 tvg-ID="madisonsquaregarden2.us" tvg-name="MSG 2" tvg-logo="http://primestreamstv.com/logos/MSG2Logo.png" group-title="SPORTS NETWORKS",MSG 2
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/100710
+#EXTINF:-1 tvg-ID="" tvg-name="MSG 2 Plus" tvg-logo="http://primestreamstv.com/logos/MSG2Plus.png" group-title="SPORTS NETWORKS",MSG 2 Plus
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/100711
+#EXTINF:-1 tvg-ID="newenglandsportsnetwork.us" tvg-name="NESN" tvg-logo="http://primestreamstv.com/logos/NESN.png" group-title="SPORTS NETWORKS",NESN
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/35508
+#EXTINF:-1 tvg-ID="newenglandsportsnetworkplus.us" tvg-name="NESN PLUS" tvg-logo="http://primestreamstv.com/logos/NESN%20PLUS.png" group-title="SPORTS NETWORKS",NESN PLUS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/95016
+#EXTINF:-1 tvg-ID="" tvg-name="ROOT SPORTS NORTHWEST" tvg-logo="http://primestreamstv.com/logos/Root.Sports.PNG" group-title="SPORTS NETWORKS",ROOT SPORTS NORTHWEST
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110746
+#EXTINF:-1 tvg-ID="spectrumsportsnet.us" tvg-name="SPECTRUM SPORTSNET" tvg-logo="http://primestreamstv.com/logos/SPECTRUM%20SPORTSNET.png" group-title="SPORTS NETWORKS",SPECTRUM SPORTSNET
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89362
+#EXTINF:-1 tvg-ID="spectrumsportsnetla.us" tvg-name="SPORTSNET L.A." tvg-logo="http://primestreamstv.com/logos/SPORTSNET%20LA.png" group-title="SPORTS NETWORKS",SPORTSNET L.A.
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/59601
+#EXTINF:-1 tvg-ID="sportsnetnewyork.us" tvg-name="SNY" tvg-logo="http://primestreamstv.com/logos/SNY.png" group-title="SPORTS NETWORKS",SNY
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/38440
+#EXTINF:-1 tvg-ID="yesnetwork.us" tvg-name="YES NETWORK" tvg-logo="http://primestreamstv.com/logos/YES%20NETWORK.png" group-title="SPORTS NETWORKS",YES NETWORK
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33762
+#EXTINF:-1 tvg-ID="nbcsportsnetwork.us" tvg-name="NBCSN" tvg-logo="http://primestreamstv.com/logos/NBCSN.png" group-title="SPORTS NETWORKS",NBCSN
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1396
+#EXTINF:-1 tvg-ID="nbcsportsnetwork.us" tvg-name="NBCSN Low" tvg-logo="http://primestreamstv.com/logos/NBCSN.png" group-title="SPORTS NETWORKS",NBCSN Low
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/109183
+#EXTINF:-1 tvg-ID="nbcsportsbayarea.us" tvg-name="NBCSN BAY AREA" tvg-logo="http://primestreamstv.com/logos/CSN%20BAY%20AREA.png" group-title="SPORTS NETWORKS",NBCSN BAY AREA
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1730
+#EXTINF:-1 tvg-ID="nbcsportsboston.us" tvg-name="NBCSN BOSTON" tvg-logo="http://primestreamstv.com/logos/CSNNE.png" group-title="SPORTS NETWORKS",NBCSN BOSTON
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1732
+#EXTINF:-1 tvg-ID="nbcsportscalifornia.us" tvg-name="NBCSN CALIFORNIA" tvg-logo="https://cms.nhl.bamgrid.com/images/photos/288216018/1024x576/cut.jpg" group-title="SPORTS NETWORKS",NBCSN CALIFORNIA
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/35437
+#EXTINF:-1 tvg-ID="nbcsportschicago.us" tvg-name="NBCSN CHICAGO" tvg-logo="http://primestreamstv.com/logos/CSNCH.png" group-title="SPORTS NETWORKS",NBCSN CHICAGO
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1731
+#EXTINF:-1 tvg-ID="nbcsportschicagoplus.us" tvg-name="NBCSN CHICAGO PLUS" tvg-logo="http://primestreamstv.com/logos/CSN%20CHICAGO.png" group-title="SPORTS NETWORKS",NBCSN CHICAGO PLUS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110091
+#EXTINF:-1 tvg-ID="nbcsportsnorthwest.us" tvg-name="NBCSN NORTH WEST" tvg-logo="http://primestreamstv.com/logos/CSNNW.png" group-title="SPORTS NETWORKS",NBCSN NORTH WEST
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1733
+#EXTINF:-1 tvg-ID="nbcsportsphiladelphia.us" tvg-name="NBCSN PHILLY" tvg-logo="http://primestreamstv.com/logos/CSNPH.png" group-title="SPORTS NETWORKS",NBCSN PHILLY
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1734
+#EXTINF:-1 tvg-ID="nbcsportsphiladelphiaplus.us" tvg-name="NBCSN PHILLY PLUS" tvg-logo="http://primestreamstv.com/logos/CSNPH.png" group-title="SPORTS NETWORKS",NBCSN PHILLY PLUS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110090
+#EXTINF:-1 tvg-ID="nbcsportnwashington.us" tvg-name="NBCSN WASHINGTON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="SPORTS NETWORKS",NBCSN WASHINGTON
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/81822
+#EXTINF:-1 tvg-ID="accnetwork.us" tvg-name="ACC NETWORK" tvg-logo="http://primestreamstv.com/logos/ACCNetworkHD.png" group-title="SPORTS NETWORKS",ACC NETWORK
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98754
+#EXTINF:-1 tvg-ID="bigtennetwork.us" tvg-name="BIG TEN NETWORK" tvg-logo="http://primestreamstv.com/logos/BTN.png" group-title="SPORTS NETWORKS",BIG TEN NETWORK
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1467
+#EXTINF:-1 tvg-ID="bigtennetwork.us" tvg-name="BIG TEN NETWORK Low" tvg-logo="http://primestreamstv.com/logos/BTN.png" group-title="SPORTS NETWORKS",BIG TEN NETWORK Low
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/109119
+#EXTINF:-1 tvg-ID="" tvg-name="BIG TEN NETWORK 2" tvg-logo="http://primestreamstv.com/logos/BTN.png" group-title="SPORTS NETWORKS",BIG TEN NETWORK 2
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/86541
+#EXTINF:-1 tvg-ID="" tvg-name="BIG TEN NETWORK 3" tvg-logo="http://primestreamstv.com/logos/BTN.png" group-title="SPORTS NETWORKS",BIG TEN NETWORK 3
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/86542
+#EXTINF:-1 tvg-ID="" tvg-name="BIG TEN NETWORK 4" tvg-logo="http://primestreamstv.com/logos/BTN.png" group-title="SPORTS NETWORKS",BIG TEN NETWORK 4
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/86543
+#EXTINF:-1 tvg-ID="thelonghonrnetwork.us" tvg-name="LONGHORN NETWORK" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/01/Longhorn_Network.jpg" group-title="SPORTS NETWORKS",LONGHORN NETWORK
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/34341
+#EXTINF:-1 tvg-ID="secnetwork.us" tvg-name="SEC NETWORK" tvg-logo="http://primestreamstv.com/logos/SEC.png" group-title="SPORTS NETWORKS",SEC NETWORK
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1419
+#EXTINF:-1 tvg-ID="pac12network.us" tvg-name="Pac-12 NETWORK" tvg-logo="http://primestreamstv.com/logos/PAC12HD.png" group-title="SPORTS NETWORKS",Pac-12 NETWORK
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1413
+#EXTINF:-1 tvg-ID="PAC12Arizona.us" tvg-name="PAC-12 ARIZONA" tvg-logo="http://primestreamstv.com/logos/PAC12AZ.png" group-title="SPORTS NETWORKS",PAC-12 ARIZONA
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1409
+#EXTINF:-1 tvg-ID="pac12bayarea.us" tvg-name="PAC-12 BAY AREA" tvg-logo="http://primestreamstv.com/logos/PAC12BA.png" group-title="SPORTS NETWORKS",PAC-12 BAY AREA
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1410
+#EXTINF:-1 tvg-ID="pac12losangeles.us" tvg-name="PAC-12 LOS ANGELES" tvg-logo="http://primestreamstv.com/logos/PAC12LA.png" group-title="SPORTS NETWORKS",PAC-12 LOS ANGELES
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1411
+#EXTINF:-1 tvg-ID="pac12mountain.us" tvg-name="PAC-12 MOUNTAIN" tvg-logo="http://primestreamstv.com/logos/PAC12MT.png" group-title="SPORTS NETWORKS",PAC-12 MOUNTAIN
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1596
+#EXTINF:-1 tvg-ID="pac12oregon.us" tvg-name="PAC-12 OREGON" tvg-logo="http://primestreamstv.com/logos/PAC12OR.png" group-title="SPORTS NETWORKS",PAC-12 OREGON
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1414
+#EXTINF:-1 tvg-ID="pac12washington.us" tvg-name="PAC-12 WASHINGTON" tvg-logo="http://primestreamstv.com/logos/PAC12WA.png" group-title="SPORTS NETWORKS",PAC-12 WASHINGTON
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1415
+#EXTINF:-1 tvg-ID="" tvg-name="CBS SPORTS HQ" tvg-logo="data:image/png;base64,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" group-title="SPORTS NETWORKS",CBS SPORTS HQ
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/99477
+#EXTINF:-1 tvg-ID="cbssportsnetworkusa.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="http://primestreamstv.com/logos/CBS%20Sports%20Network.png" group-title="SPORTS NETWORKS",CBS SPORTS NETWORK
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1281
+#EXTINF:-1 tvg-ID="cbssportsnetworkusa.us" tvg-name="CBS SPORTS NETWORK Low" tvg-logo="http://primestreamstv.com/logos/CBS%20Sports%20Network.png" group-title="SPORTS NETWORKS",CBS SPORTS NETWORK Low
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/109120
+#EXTINF:-1 tvg-ID="bbc.earth.hd.ca" tvg-name="ELEVEN SPORTS" tvg-logo="https://y4j7y8s9.ssl.hwcdn.net/wp-content/uploads/2017/07/eleven-sports.png" group-title="SPORTS NETWORKS",ELEVEN SPORTS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/86505
+#EXTINF:-1 tvg-ID="" tvg-name="FANTASY SPORTS NETWORK" tvg-logo="http://primestreamstv.com/logos/fantasy%20network.png" group-title="SPORTS NETWORKS",FANTASY SPORTS NETWORK
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110081
+#EXTINF:-1 tvg-ID="" tvg-name="VSIN" tvg-logo="https://cdn.newswire.com/files/x/a0/2d/83d4803926d61c62766d9d4aca84.jpg" group-title="SPORTS NETWORKS",VSIN
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110080
+#EXTINF:-1 tvg-ID="freesports.uk" tvg-name="FREESPORTS" tvg-logo="http://primestreamstv.com/logos/FreeSports.png" group-title="SPORTS NETWORKS",FREESPORTS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98772
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="PREMIER SPORTS 1" tvg-logo="http://primestreamstv.com/logos/Premier%20HD.png" group-title="SPORTS NETWORKS",PREMIER SPORTS 1
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98771
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="PREMIER SPORTS 2" tvg-logo="http://primestreamstv.com/logos/Premier%20HD.png" group-title="SPORTS NETWORKS",PREMIER SPORTS 2
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98770
+#EXTINF:-1 tvg-ID="foxsoccerplus.us" tvg-name="FOX SOCCER PLUS" tvg-logo="http://primestreamstv.com/logos/Fox%20Soccer%20Plus.png" group-title="SPORTS NETWORKS",FOX SOCCER PLUS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33472
+#EXTINF:-1 tvg-ID="FoxSportsRacing.ca" tvg-name="FOX SPORTS RACING" tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/MOTORS/images/FOX-SPORTS-RACING-logo.jpg" group-title="SPORTS NETWORKS",FOX SPORTS RACING
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/99601
+#EXTINF:-1 tvg-ID="foxsportsarizona.us" tvg-name="FOX SPORTS ARIZONA" tvg-logo="https://foxsportsarizona.files.wordpress.com/2012/08/cropped-wordpress-headernewlogo.jpg" group-title="SPORTS NETWORKS",FOX SPORTS ARIZONA
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33761
+#EXTINF:-1 tvg-ID="foxsportsarizonaplus.us" tvg-name="FOX SPORTS ARIZONA PLUS" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS ARIZONA PLUS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/111014
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS CAROLINAS" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS CAROLINAS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/111015
+#EXTINF:-1 tvg-ID="foxsportsohiocincinnati.us" tvg-name="FOX SPORTS CINCINNATI" tvg-logo="http://primestreamstv.com/logos/Fox%20Sports%20Ohio.png" group-title="SPORTS NETWORKS",FOX SPORTS CINCINNATI
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/109076
+#EXTINF:-1 tvg-ID="foxsportsdetroit.us" tvg-name="FOX SPORTS DETROIT" tvg-logo="http://primestreamstv.com/logos/Fox%20Sports%20Detroit.png" group-title="SPORTS NETWORKS",FOX SPORTS DETROIT
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33759
+#EXTINF:-1 tvg-ID="foxsportsdetroitplus.us" tvg-name="FOX SPORTS DETROIT PLUS" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS DETROIT PLUS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/111016
+#EXTINF:-1 tvg-ID="foxsportsflorida.us" tvg-name="FOX SPORTS FLORIDA" tvg-logo="https://www.killthecablebill.com/images/cancelcable/watch-fox-sports-florida-without-cable-1024x576.jpg" group-title="SPORTS NETWORKS",FOX SPORTS FLORIDA
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33758
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS FLORIDA (North)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS FLORIDA (North)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/111017
+#EXTINF:-1 tvg-ID="foxsportsmidwest.us" tvg-name="FOX SPORTS MIDWEST" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSMidwest_white.jpg" group-title="SPORTS NETWORKS",FOX SPORTS MIDWEST
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33756
+#EXTINF:-1 tvg-ID="foxsportsneworleans.us" tvg-name="FOX SPORTS NEW ORLEANS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/FoxSportsNewOrleans.png/200px-FoxSportsNewOrleans.png" group-title="SPORTS NETWORKS",FOX SPORTS NEW ORLEANS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/36272
+#EXTINF:-1 tvg-ID="foxsportsnorth.us" tvg-name="FOX SPORTS NORTH" tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/RSN/North/2014/01/06/FOXSportsNorth.vresize.1200.630.high.0.jpg" group-title="SPORTS NETWORKS",FOX SPORTS NORTH
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33755
+#EXTINF:-1 tvg-ID="5starmax.us" tvg-name="FOX SPORTS OHIO" tvg-logo="http://primestreamstv.com/logos/Fox%20Sports%20Ohio.png" group-title="SPORTS NETWORKS",FOX SPORTS OHIO
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33754
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS OKLAHOMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Fox_Sports_Oklahoma_Logo_2012.png" group-title="SPORTS NETWORKS",FOX SPORTS OKLAHOMA
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89131
+#EXTINF:-1 tvg-ID="5starmax.us" tvg-name="FOX SPORTS PRIME TICKET" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/images-1.jpeg" group-title="SPORTS NETWORKS",FOX SPORTS PRIME TICKET
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/36570
+#EXTINF:-1 tvg-ID="foxsportssandiego.us" tvg-name="FOX SPORTS SAN DIEGO" tvg-logo="https://cdn.vox-cdn.com/thumbor/9ySiT3Te7jhmTo3sFFS5OrQEOaU=/24x0:1075x701/1400x1050/filters:focal(24x0:1075x701):format(png)/cdn.vox-cdn.com/uploads/chorus_image/image/8937151/fox_sports_san_diego_2012.0.png" group-title="SPORTS NETWORKS",FOX SPORTS SAN DIEGO
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/36279
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS SAN DIEGO PLUS" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS SAN DIEGO PLUS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/111018
+#EXTINF:-1 tvg-ID="sportstimeohio.us" tvg-name="FOX SPORTS TIME OHIO" tvg-logo="http://primestreamstv.com/logos/fsohio.png" group-title="SPORTS NETWORKS",FOX SPORTS TIME OHIO
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/91157
+#EXTINF:-1 tvg-ID="foxsportssouth.us" tvg-name="FOX SPORTS SOUTH" tvg-logo="http://primestreamstv.com/logos/USA/USA-FoxSportsSouth.png" group-title="SPORTS NETWORKS",FOX SPORTS SOUTH
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33751
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS SOUTH PLUS" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS SOUTH PLUS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/111019
+#EXTINF:-1 tvg-ID="foxsportssoutheast.us" tvg-name="FOX SPORTS SOUTHEAST" tvg-logo="https://www.nba.com/grizzlies/sites/grizzlies/files/styles/story_main_photo/public/fox-sports-southeast-777x442.jpg?itok=2G5s0M4v" group-title="SPORTS NETWORKS",FOX SPORTS SOUTHEAST
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33750
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS SOUTHEAST (North Carolina)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS SOUTHEAST (North Carolina)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/111020
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS SOUTHEAST (Tennessee)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS SOUTHEAST (Tennessee)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/111021
+#EXTINF:-1 tvg-ID="foxsportssouthwest.us" tvg-name="FOX SPORTS SOUTHWEST" tvg-logo="https://i0.wp.com/exstreamal.com/wp-content/uploads/2017/06/Fox-Sports-Southwest-Live-Stream-3.jpg?resize=600%2C400" group-title="SPORTS NETWORKS",FOX SPORTS SOUTHWEST
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33749
+#EXTINF:-1 tvg-ID="foxsportswest.us" tvg-name="FOX SPORTS SOUTHWEST" tvg-logo="http://primestreamstv.com/logos/foxsportssouthwestplus.png" group-title="SPORTS NETWORKS",FOX SPORTS SOUTHWEST
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/36277
+#EXTINF:-1 tvg-ID="foxsportssun.us" tvg-name="FOX SPORTS SUN" tvg-logo="https://www.p1jetcross.com/uploads/images/large/z-Jetcross22506Sponsor1.gif" group-title="SPORTS NETWORKS",FOX SPORTS SUN
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33748
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS SUN (North Florida)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS SUN (North Florida)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/111022
+#EXTINF:-1 tvg-ID="foxsportstennessee.us" tvg-name="FOX SPORTS TENNESSEE" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS TENNESSEE
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/111023
+#EXTINF:-1 tvg-ID="foxsportswest.us" tvg-name="FOX SPORTS WEST" tvg-logo="http://primestreamstv.com/logos/Fox%20Sports%20West.png" group-title="SPORTS NETWORKS",FOX SPORTS WEST
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33746
+#EXTINF:-1 tvg-ID="foxsportswisconsin.us" tvg-name="FOX SPORTS WISCONSIN" tvg-logo="https://www.streamingobserver.com/wp-content/uploads/2018/11/fox-sports-wisconsin-live-stream.jpg" group-title="SPORTS NETWORKS",FOX SPORTS WISCONSIN
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/33745
+#EXTINF:-1 tvg-ID="foxdeportes.us" tvg-name="FOX DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png" group-title="SPORTS NETWORKS",FOX DEPORTES
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/36267
+#EXTINF:-1 tvg-ID="boxnation.uk" tvg-name="BOXNATION" tvg-logo="http://primestreamstv.com/logos/Box%20Nation.png" group-title="SPORTS NETWORKS",BOXNATION
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1380
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="BT SPORTS 1" tvg-logo="http://primestreamstv.com/logos/BT%20Sport%201%20HD.png" group-title="SPORTS NETWORKS",BT SPORTS 1
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110708
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="BT SPORTS 2" tvg-logo="http://primestreamstv.com/logos/BT%20Sport%202%20HD.png" group-title="SPORTS NETWORKS",BT SPORTS 2
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89213
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="BT SPORTS 3" tvg-logo="http://primestreamstv.com/logos/BT%20Sport%203.png" group-title="SPORTS NETWORKS",BT SPORTS 3
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89212
+#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="BT SPORTS EPSN" tvg-logo="http://primestreamstv.com/logos/BT%20Sport%20ESPN.png" group-title="SPORTS NETWORKS",BT SPORTS EPSN
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89211
+#EXTINF:-1 tvg-ID="btsportx1.uk" tvg-name="BT SPORTS EXTRA 1 | VIP" tvg-logo="http://primestreamstv.com/logos/BT%20Extra%201.png" group-title="SPORTS NETWORKS",BT SPORTS EXTRA 1 | VIP
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/100702
+#EXTINF:-1 tvg-ID="btsportx2.uk" tvg-name="BT SPORTS EXTRA 2 | VIP" tvg-logo="http://primestreamstv.com/logos/BT%20Extra%202.png" group-title="SPORTS NETWORKS",BT SPORTS EXTRA 2 | VIP
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/100703
+#EXTINF:-1 tvg-ID="btsportx3.uk" tvg-name="BT SPORTS EXTRA 3 | VIP" tvg-logo="http://primestreamstv.com/logos/BT%20Extra%203.png" group-title="SPORTS NETWORKS",BT SPORTS EXTRA 3 | VIP
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/100704
+#EXTINF:-1 tvg-ID="btsportx4.uk" tvg-name="BT SPORTS EXTRA 4 | VIP" tvg-logo="http://primestreamstv.com/logos/BT%20Extra%204.png" group-title="SPORTS NETWORKS",BT SPORTS EXTRA 4 | VIP
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/100705
+#EXTINF:-1 tvg-ID="btsportx5.uk" tvg-name="BT SPORTS EXTRA 5 | VIP" tvg-logo="http://primestreamstv.com/logos/BT%20Extra%205.png" group-title="SPORTS NETWORKS",BT SPORTS EXTRA 5 | VIP
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/100706
+#EXTINF:-1 tvg-ID="btsportx6.uk" tvg-name="BT SPORTS EXTRA 6 | VIP" tvg-logo="http://primestreamstv.com/logos/BT%20Extra%206.png" group-title="SPORTS NETWORKS",BT SPORTS EXTRA 6 | VIP
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/100707
+#EXTINF:-1 tvg-ID="" tvg-name="BT SPORTS EXTRA 7 | VIP" tvg-logo="http://primestreamstv.com/logos/BT%20Sport%20Extra.png" group-title="SPORTS NETWORKS",BT SPORTS EXTRA 7 | VIP
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/100708
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="SKY SPORTS NFL" tvg-logo="http://primestreamstv.com/logos/Sky.Sports.NFL.PNG" group-title="SPORTS NETWORKS",SKY SPORTS NFL
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98789
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="http://primestreamstv.com/logos/Sky%20Sports%20Arena.png" group-title="SPORTS NETWORKS",SKY SPORTS ARENA
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98787
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="http://primestreamstv.com/logos/Sky%20Sports%20cricket%20hd.png" group-title="SPORTS NETWORKS",SKY SPORTS CRICKET
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98785
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="SKY SPORTS F1" tvg-logo="http://primestreamstv.com/logos/Sky%20Sports%20F1.png" group-title="SPORTS NETWORKS",SKY SPORTS F1
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98783
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="http://primestreamstv.com/logos/SS_FOOTBALL.png" group-title="SPORTS NETWORKS",SKY SPORTS FOOTBALL
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98781
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="http://primestreamstv.com/logos/SS_GOLF.png" group-title="SPORTS NETWORKS",SKY SPORTS GOLF
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98779
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="http://primestreamstv.com/logos/Sky%20Sports%20Main%20Event.png" group-title="SPORTS NETWORKS",SKY SPORTS MAIN EVENT
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98777
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="SKY SPORTS MIX" tvg-logo="http://primestreamstv.com/logos/Sky%20Sports%20Mix.png" group-title="SPORTS NETWORKS",SKY SPORTS MIX
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98857
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="SKY SPORTS NEWS" tvg-logo="http://primestreamstv.com/logos/Sky%20Spts%20News%20HD.png" group-title="SPORTS NETWORKS",SKY SPORTS NEWS
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98801
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="http://primestreamstv.com/logos/Sky%20Sports%20Premier%20League.png" group-title="SPORTS NETWORKS",SKY SPORTS PREMIER LEAGUE
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98775
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="SKY SPORTS RACING" tvg-logo="http://primestreamstv.com/logos/RACING%20UK.png" group-title="SPORTS NETWORKS",SKY SPORTS RACING
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/98773
+#EXTINF:-1 tvg-ID="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="http://primestreamstv.com/logos/Eurosport%201.png" group-title="SPORTS NETWORKS",EUROSPORT 1
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/31459
+#EXTINF:-1 tvg-ID="eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="http://primestreamstv.com/logos/Eurosport%202.png" group-title="SPORTS NETWORKS",EUROSPORT 2
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/31460
+#EXTINF:-1 tvg-ID="tsn1.ca" tvg-name="TSN 1" tvg-logo="http://primestreamstv.com/logos/TSN%201.png" group-title="SPORTS NETWORKS",TSN 1
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1621
+#EXTINF:-1 tvg-ID="tsn2.ca" tvg-name="TSN 2" tvg-logo="http://primestreamstv.com/logos/TSN%202.png" group-title="SPORTS NETWORKS",TSN 2
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1622
+#EXTINF:-1 tvg-ID="tsn3.ca" tvg-name="TSN 3" tvg-logo="http://primestreamstv.com/logos/TSN%203.png" group-title="SPORTS NETWORKS",TSN 3
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1623
+#EXTINF:-1 tvg-ID="tsn4.ca" tvg-name="TSN 4" tvg-logo="http://primestreamstv.com/logos/TSN%204.png" group-title="SPORTS NETWORKS",TSN 4
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1624
+#EXTINF:-1 tvg-ID="tsn5.ca" tvg-name="TSN 5" tvg-logo="http://primestreamstv.com/logos/TSN%205.png" group-title="SPORTS NETWORKS",TSN 5
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1625
+#EXTINF:-1 tvg-ID="sportsnet360.ca" tvg-name="SPORTSNET 360" tvg-logo="http://primestreamstv.com/logos/Sports%20Net%20360.png" group-title="SPORTS NETWORKS",SPORTSNET 360
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/26000
+#EXTINF:-1 tvg-ID="sportsnetone.ca" tvg-name="SPORTSNET ONE" tvg-logo="http://primestreamstv.com/logos/Sports%20Net%20One.png" group-title="SPORTS NETWORKS",SPORTSNET ONE
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/26001
+#EXTINF:-1 tvg-ID="sportsnetontario.ca" tvg-name="SPORTSNET ONTARIO" tvg-logo="http://primestreamstv.com/logos/Sports%20Net%20Ontario.png" group-title="SPORTS NETWORKS",SPORTSNET ONTARIO
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/25999
+#EXTINF:-1 tvg-ID="sportsnetpacific.ca" tvg-name="SPORTSNET PACIFIC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/Rogers_sportsnet_pacific.png/revision/latest?cb=20120212023023" group-title="SPORTS NETWORKS",SPORTSNET PACIFIC
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/26002
+#EXTINF:-1 tvg-ID="sportsnetwest.ca" tvg-name="SPORTSNET WEST" tvg-logo="http://primestreamstv.com/logos/Sportsnet%20West.png" group-title="SPORTS NETWORKS",SPORTSNET WEST
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110725
+#EXTINF:-1 tvg-ID="sportsnetworld.ca" tvg-name="SPORTSNET WORLD" tvg-logo="http://primestreamstv.com/logos/Sportsnet%20World.png" group-title="SPORTS NETWORKS",SPORTSNET WORLD
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1619
+#EXTINF:-1 tvg-ID="beinsports.us" tvg-name="BEIN SPORTS USA" tvg-logo="http://primestreamstv.com/logos/BEIN%20SPORT%20USA.png" group-title="SPORTS NETWORKS",BEIN SPORTS USA
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1501
+#EXTINF:-1 tvg-ID="beinsportespanol.us" tvg-name="BEIN SPORTS ESP (US)" tvg-logo="http://primestreamstv.com/logos/BeinSportsN.png" group-title="SPORTS NETWORKS",BEIN SPORTS ESP (US)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/27685
+#EXTINF:-1 tvg-ID="beIN LaLiga" tvg-name="BEIN SPORTS LA LIGA" tvg-logo="http://primestreamstv.com/logos/BeinSportsN.png" group-title="SPORTS NETWORKS",BEIN SPORTS LA LIGA
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/28014
+#EXTINF:-1 tvg-ID="beinsports4.us" tvg-name="BEIN CONNECT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="SPORTS NETWORKS",BEIN CONNECT 4
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/38455
+#EXTINF:-1 tvg-ID="beinsports5.us" tvg-name="BEIN CONNECT 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="SPORTS NETWORKS",BEIN CONNECT 5
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/38456
+#EXTINF:-1 tvg-ID="beinsports6.us" tvg-name="BEIN CONNECT 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="SPORTS NETWORKS",BEIN CONNECT 6
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/38457
+#EXTINF:-1 tvg-ID="beinsports7.us" tvg-name="BEIN CONNECT 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="SPORTS NETWORKS",BEIN CONNECT 7
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/38458
+#EXTINF:-1 tvg-ID="beinsports8.us" tvg-name="BEIN CONNECT 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png" group-title="SPORTS NETWORKS",BEIN CONNECT 8
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/38459
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 (Australia)" tvg-logo="http://primestreamstv.com/logos/BeIN%20Sports%201%20HD.png" group-title="SPORTS NETWORKS",BEIN SPORTS 1 (Australia)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110876
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2 (Australia)" tvg-logo="http://primestreamstv.com/logos/BeIN%20Sports%202%20HD.png" group-title="SPORTS NETWORKS",BEIN SPORTS 2 (Australia)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110877
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 (Australia)" tvg-logo="http://primestreamstv.com/logos/BeIN%20Sports%203%20HD.png" group-title="SPORTS NETWORKS",BEIN SPORTS 3 (Australia)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110878
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN (Australia)" tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="SPORTS NETWORKS",ESPN (Australia)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110879
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 (Australia)" tvg-logo="http://primestreamstv.com/logos/ESPN2.png" group-title="SPORTS NETWORKS",ESPN 2 (Australia)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110880
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CRICKET (Australia)" tvg-logo="http://primestreamstv.com/logos/Fox.Cricket.2.jpg" group-title="SPORTS NETWORKS",FOX CRICKET (Australia)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110881
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 502 (Australia)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS 502 (Australia)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110882
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 503 (Australia)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS 503 (Australia)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110883
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 504 (Australia)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS 504 (Australia)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110884
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 505 (Australia)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS 505 (Australia)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110885
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 506 (Australia)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS 506 (Australia)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110886
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 507 (Australia)" tvg-logo="http://primestreamstv.com/logos/Fox.Sports.Australia.png" group-title="SPORTS NETWORKS",FOX SPORTS 507 (Australia)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110887
+#EXTINF:-1 tvg-ID="" tvg-name="RACING TV (Australia)" tvg-logo="http://primestreamstv.com/logos/Racing.TV.png" group-title="SPORTS NETWORKS",RACING TV (Australia)
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110888
+#EXTINF:-1 tvg-ID="beinsports.us" tvg-name="Bee n Sport 1" tvg-logo="http://primestreamstv.com/logos/bein%201HD.png" group-title="SPORTS NETWORKS",Bee n Sport 1
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89210
+#EXTINF:-1 tvg-ID="beinsports2.us" tvg-name="Bee n Sport 2" tvg-logo="http://primestreamstv.com/logos/bein%202HD.png" group-title="SPORTS NETWORKS",Bee n Sport 2
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89209
+#EXTINF:-1 tvg-ID="" tvg-name="Bee N Sport 3" tvg-logo="http://primestreamstv.com/logos/bein%203HD.png" group-title="SPORTS NETWORKS",Bee N Sport 3
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89208
+#EXTINF:-1 tvg-ID="beinsports4.us" tvg-name="Bee N Sport 4" tvg-logo="http://primestreamstv.com/logos/bein%204HD.png" group-title="SPORTS NETWORKS",Bee N Sport 4
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89207
+#EXTINF:-1 tvg-ID="beinsports5.us" tvg-name="Bee n Sport 5" tvg-logo="http://primestreamstv.com/logos/bein%205HD.png" group-title="SPORTS NETWORKS",Bee n Sport 5
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89206
+#EXTINF:-1 tvg-ID="beinsports6.us" tvg-name="Bee n Sport 6" tvg-logo="http://primestreamstv.com/logos/bein%206HD.png" group-title="SPORTS NETWORKS",Bee n Sport 6
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89205
+#EXTINF:-1 tvg-ID="beinsports7.us" tvg-name="Bee n Sport 7" tvg-logo="http://primestreamstv.com/logos/bein%207HD.png" group-title="SPORTS NETWORKS",Bee n Sport 7
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89204
+#EXTINF:-1 tvg-ID="beinsports8.us" tvg-name="Bee N Sport 8" tvg-logo="http://primestreamstv.com/logos/bein%208HD.png" group-title="SPORTS NETWORKS",Bee N Sport 8
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89203
+#EXTINF:-1 tvg-ID="beinsports9.us" tvg-name="Bee N Sport 9" tvg-logo="http://primestreamstv.com/logos/bein%209HD.png" group-title="SPORTS NETWORKS",Bee N Sport 9
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89202
+#EXTINF:-1 tvg-ID="beinsports10.us" tvg-name="Bee N Sport 10" tvg-logo="http://primestreamstv.com/logos/bein%2010HD.png" group-title="SPORTS NETWORKS",Bee N Sport 10
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89201
+#EXTINF:-1 tvg-ID="" tvg-name="Bee N Sport 11" tvg-logo="http://primestreamstv.com/logos/bein%2011HD.png" group-title="SPORTS NETWORKS",Bee N Sport 11
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89200
+#EXTINF:-1 tvg-ID="" tvg-name="Bee n Sport 12" tvg-logo="http://primestreamstv.com/logos/bein%2012HD.png" group-title="SPORTS NETWORKS",Bee n Sport 12
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89199
+#EXTINF:-1 tvg-ID="" tvg-name="Bee N Sport 13" tvg-logo="http://primestreamstv.com/logos/beIN%2013HD.png" group-title="SPORTS NETWORKS",Bee N Sport 13
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/100633
+#EXTINF:-1 tvg-ID="" tvg-name="OSN CRICKET" tvg-logo="http://primestreamstv.com/logos/OSN%20Cricket.png" group-title="SPORTS NETWORKS",OSN CRICKET
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/95012
+#EXTINF:-1 tvg-ID="" tvg-name="WILLOW CRICKET" tvg-logo="http://primestreamstv.com/logos/Willow%20Cricket.png" group-title="SPORTS NETWORKS",WILLOW CRICKET
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/100685
+#EXTINF:-1 tvg-ID="" tvg-name="WILLOWXTRA CRICKET" tvg-logo="http://primestreamstv.com/logos/Willow%20Cricket.png" group-title="SPORTS NETWORKS",WILLOWXTRA CRICKET
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/100686
+#EXTINF:-1 tvg-ID="WILLOW1.WILLOW" tvg-name="WILLOW 1" tvg-logo="http://primestreamstv.com/logos/Willow%20Cricket.png" group-title="SPORTS NETWORKS",WILLOW 1
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/92900
+#EXTINF:-1 tvg-ID="WILLOW2.WILLOW" tvg-name="WILLOW 2" tvg-logo="http://primestreamstv.com/logos/Willow%20Cricket.png" group-title="SPORTS NETWORKS",WILLOW 2
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/92899
+#EXTINF:-1 tvg-ID="WILLOW3.WILLOW" tvg-name="WILLOW 3" tvg-logo="http://primestreamstv.com/logos/Willow%20Cricket.png" group-title="SPORTS NETWORKS",WILLOW 3
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/92898
+#EXTINF:-1 tvg-ID="WILLOW4.WILLOW" tvg-name="WILLOW 4" tvg-logo="http://primestreamstv.com/logos/Willow%20Cricket.png" group-title="SPORTS NETWORKS",WILLOW 4
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/92897
+#EXTINF:-1 tvg-ID="WILLOW5.WILLOW" tvg-name="WILLOW 5" tvg-logo="http://primestreamstv.com/logos/Willow%20Cricket.png" group-title="SPORTS NETWORKS",WILLOW 5
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/92896
+#EXTINF:-1 tvg-ID="" tvg-name="STADIUM" tvg-logo="http://primestreamstv.com/logos/stadium.png" group-title="SPORTS NETWORKS",STADIUM
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89136
+#EXTINF:-1 tvg-ID="" tvg-name="STADIUM 1 " tvg-logo="http://primestreamstv.com/logos/stadium.png" group-title="SPORTS NETWORKS",STADIUM 1 
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89137
+#EXTINF:-1 tvg-ID="" tvg-name="STADIUM 2" tvg-logo="http://primestreamstv.com/logos/stadium.png" group-title="SPORTS NETWORKS",STADIUM 2
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89138
+#EXTINF:-1 tvg-ID="" tvg-name="STADIUM 3" tvg-logo="http://primestreamstv.com/logos/stadium.png" group-title="SPORTS NETWORKS",STADIUM 3
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/89139
+#EXTINF:-1 tvg-ID="mavtv.us" tvg-name="MAVTV" tvg-logo="http://primestreamstv.com/logos/MAVTV.png" group-title="SPORTS NETWORKS",MAVTV
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1267
+#EXTINF:-1 tvg-ID="discoveryturbo.uk" tvg-name="DISCOVERY TURBO" tvg-logo="http://primestreamstv.com/logos/Discovery%20Turbo.png" group-title="SPORTS NETWORKS",DISCOVERY TURBO
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1692
+#EXTINF:-1 tvg-ID="pursuitchannel.us" tvg-name="PURSUIT CHANNEL" tvg-logo="http://primestreamstv.com/logos/Pursuit.png" group-title="SPORTS NETWORKS",PURSUIT CHANNEL
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/97636
+#EXTINF:-1 tvg-ID="" tvg-name="RACIN DIRT" tvg-logo="https://lh3.googleusercontent.com/proxy/lEGb3ZkF9yrXhovx4wXjiQjHLMvt9xk7bIMgmU7sFmAgNXKD8M_7LX85yzu3cz3jRrY4wF9iT6PO6RFzEz8pN7ghL41vKCJ5BfFj-AXxYbKlS5_UbR4McsWiIatO" group-title="SPORTS NETWORKS",RACIN DIRT
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110099
+#EXTINF:-1 tvg-ID="sportsmanchannel.us" tvg-name="SPORTSMAN CHANNEL" tvg-logo="https://mascon.ca/wp-content/uploads/the-sportsman-channel.jpg" group-title="SPORTS NETWORKS",SPORTSMAN CHANNEL
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/36070
+#EXTINF:-1 tvg-ID="sportsmanchannel.us" tvg-name="SPORTSMAN CHANNEL Low" tvg-logo="https://mascon.ca/wp-content/uploads/the-sportsman-channel.jpg" group-title="SPORTS NETWORKS",SPORTSMAN CHANNEL Low
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/109205
+#EXTINF:-1 tvg-ID="" tvg-name="HUNT CHANNEL TV" tvg-logo="https://givingbacktv.net/wp-content/uploads/2019/02/huntchannel-300x186.png" group-title="SPORTS NETWORKS",HUNT CHANNEL TV
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/95939
+#EXTINF:-1 tvg-ID="outdoorchannel.us" tvg-name="OUTDOOR CHANNEL" tvg-logo="http://primestreamstv.com/logos/Outdoor.png" group-title="SPORTS NETWORKS",OUTDOOR CHANNEL
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/26029
+#EXTINF:-1 tvg-ID="worldfishingnetwork.ca" tvg-name="WORLD FISHING NETWORK" tvg-logo="https://i.ytimg.com/vi/Ou266-JxPIc/maxresdefault.jpg" group-title="SPORTS NETWORKS",WORLD FISHING NETWORK
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/30261
+#EXTINF:-1 tvg-ID="outsidetv.us" tvg-name="OUTSIDE TV" tvg-logo="http://www.outsidetv.com/img/ico/og_image_v2.png" group-title="SPORTS NETWORKS",OUTSIDE TV
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/38436
+#EXTINF:-1 tvg-ID="discoveryvelocity.us" tvg-name="MOTORTREND" tvg-logo="http://primestreamstv.com/logos/MotorTrendLogo.png" group-title="SPORTS NETWORKS",MOTORTREND
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1452
+#EXTINF:-1 tvg-ID="motortrend.us" tvg-name="MOTORTREND Low" tvg-logo="http://primestreamstv.com/logos/MotorTrendLogo.png" group-title="SPORTS NETWORKS",MOTORTREND Low
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/109175
+#EXTINF:-1 tvg-ID="5starmax.us" tvg-name="RED BULL TV" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="SPORTS NETWORKS",RED BULL TV
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/1757
