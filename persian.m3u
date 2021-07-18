@@ -13,6 +13,8 @@ https://cdn.sha-256.org/2021186617/4kMsFuIAUC/5893
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Farda" tvg-id="" group-title="Iran",Radio Farda
 http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+#EXTINF:-1 tvg-name="VARZESH" tvg-id="" group-title="Iran",VARZESH
+https://ss.90minlive.online/live/varzesh-irib3343/chunks.m3u8
 #EXTINF:-1 tvg-name="PPV" group-title="PPV / EVENTS",EVENTS 3: 8PM Mike Tyson v Roy Jones Jr
 http://primestreams.tv:826/jeepyj/lIvg33bEJY/92328
 #EXTINF:-1 tvg-name="PPV2" group-title="PPV / EVENTS",EVENTS 3.1: 9PM Mike Tyson v Roy Jones Jr
