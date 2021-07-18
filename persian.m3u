@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="IR: Manoto TV" tvg-id="manototv.ir" group-title="IRAN",IR: Manoto TV
+#EXTINF:-1 tvg-ID="manototv.i" tvg-name="IR: Manoto TV" group-title="IRAN",IR: Manoto TV
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8?checkedby:hlscat.com
