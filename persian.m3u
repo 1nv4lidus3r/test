@@ -1,3 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="manototv.i" tvg-name="IR: Manoto TV" group-title="IRAN",IR: Manoto TV
+#EXTINF:-1 tvg-name="IR: Manoto TV" tvg-id="manototv.ir" group-title="IRAN",IR: Manoto TV
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-name="IR: VOA Farsi | SD" tvg-id="" group-title="IRAN",IR: VOA Farsi | SD
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-name="IR: Andisheh TV | SD" tvg-id="" group-title="IRAN",IR: Andisheh TV | SD
+https://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
+#EXTINF:-1 tvg-name="IR: ITN | SD" tvg-id="" group-title="IRAN",IR: ITN | SD
+https://2nbyjjx7y53k-hls-live.5centscdn.com/031820/ba22796be201dee03c46a9b0ada66145.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="IR: TV IRIB VARZESH | SD" tvg-id="" group-title="IRAN",IR: TV IRIB VARZESH | SD
+https://ss.90minlive.online/live/irirb3-h/chunks.m3u8
+#EXTINF:-1 tvg-name="Tapesh TV FHD IR" tvg-id="" group-title="Iran",Tapesh TV FHD IR
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Farda" tvg-id="" group-title="Iran",Radio Farda
+http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+#EXTINF:-1 tvg-name="VARZESH" tvg-id="" group-title="Iran",VARZESH
+https://ss.90minlive.online/live/varzesh-irib3343/chunks.m3u8
+#EXTINF:-1 tvg-name="PPV" group-title="PPV / EVENTS",EVENTS 3: 8PM Mike Tyson v Roy Jones Jr
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/92328
+#EXTINF:-1 tvg-name="PPV2" group-title="PPV / EVENTS",EVENTS 3.1: 9PM Mike Tyson v Roy Jones Jr
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110721
+#EXTINF:-1 tvg-name="PPV3" group-title="PPV / EVENTS",EVENTS 4: Mike Tyson v Roy Jones Jr
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/92329
+#EXTINF:-1 tvg-name="PPV4" group-title="PPV / EVENTS",EVENTS 4.1:  LowBW Mike Tyson v Roy Jones Jr
+http://primestreams.tv:826/jeepyj/lIvg33bEJY/110722
