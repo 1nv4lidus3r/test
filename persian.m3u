@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="IR: Manoto TV | HD" tvg-id="manototv.ir" group-title="IRAN",IR: Manoto TV | HD
+#EXTINF:-1 tvg-name="IR: Manoto TV" tvg-id="manototv.ir" group-title="IRAN",IR: Manoto TV
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-name="IR: VOA Farsi | SD" tvg-id="" group-title="IRAN",IR: VOA Farsi | SD
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8?checkedby:hlscat.com
