@@ -1,14 +1,287 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-livetv.com/uploads/thumbs/bf1a14b7d-1.jpg" group-title="IRAN",Andisheh TV
-http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Csznywp.png" group-title="IRAN",Kanal Yek TV
-http://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/J0Oj78g.jpg" group-title="IRAN",PBC Tapesh TV
-http://iptv.tapesh.tv/tapesh/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",PMC
-http://63.237.48.28/ios/PMC/PMC.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiofarda.com/Content/responsive/RFE/fa-IR/img/logo.png" group-title="IRAN",Radio Farda
-http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="-----IRAN-----" tvg-logo="http://picon.webhop.net/logo/flag/ir.png" group-title="IR IRAN",-----IRAN-----
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/135959
+#EXTINF:-1 tvg-id="" tvg-name="IR: AL ALAM" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alalam-news-channel-ir.png" group-title="IR IRAN",IR: AL ALAM
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/384
+#EXTINF:-1 tvg-id="" tvg-name="IR: ALKAWTHAR" tvg-logo="" group-title="IR IRAN",IR: ALKAWTHAR
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94542
+#EXTINF:-1 tvg-id="" tvg-name="IR: Ayeneh TV" tvg-logo="" group-title="IR IRAN",IR: Ayeneh TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/162350
+#EXTINF:-1 tvg-id="" tvg-name="IR: BBC Persian HD" tvg-logo="" group-title="IR IRAN",IR: BBC Persian HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301132
+#EXTINF:-1 tvg-id="" tvg-name="IR: BBC Persian" tvg-logo="" group-title="IR IRAN",IR: BBC Persian
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94534
+#EXTINF:-1 tvg-id="" tvg-name="IR: Channel One (Farsi)" tvg-logo="" group-title="IR IRAN",IR: Channel One (Farsi)
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/165279
+#EXTINF:-1 tvg-id="" tvg-name="IR: Didar TV" tvg-logo="" group-title="IR IRAN",IR: Didar TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/162372
+#EXTINF:-1 tvg-id="" tvg-name="IR: Manoto TV FHD" tvg-logo="" group-title="IR IRAN",IR: Manoto TV FHD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301137
+#EXTINF:-1 tvg-id="" tvg-name="IR: Manoto TV HD" tvg-logo="" group-title="IR IRAN",IR: Manoto TV HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301136
+#EXTINF:-1 tvg-id="" tvg-name="IR: Manoto Plus HD" tvg-logo="" group-title="IR IRAN",IR: Manoto Plus HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301135
+#EXTINF:-1 tvg-id="" tvg-name="IR: Manoto +1 HD" tvg-logo="" group-title="IR IRAN",IR: Manoto +1 HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301134
+#EXTINF:-1 tvg-id="" tvg-name="IR: Cine Film FHD" tvg-logo="" group-title="IR IRAN",IR: Cine Film FHD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301131
+#EXTINF:-1 tvg-id="" tvg-name="IR: Ganj e Hozour TV" tvg-logo="" group-title="IR IRAN",IR: Ganj e Hozour TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/2939
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM ARABIA" tvg-logo="" group-title="IR IRAN",IR: GEM ARABIA
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/143092
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM AZ" tvg-logo="" group-title="IR IRAN",IR: GEM AZ
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/143093
+#EXTINF:-1 tvg-id="" tvg-name="IR: Gem Bollywood" tvg-logo="" group-title="IR IRAN",IR: Gem Bollywood
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94533
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM CLASSIC" tvg-logo="" group-title="IR IRAN",IR: GEM CLASSIC
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94532
+#EXTINF:-1 tvg-id="" tvg-name="IR: Gem Family HD" tvg-logo="" group-title="IR IRAN",IR: Gem Family HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/140020
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM FOOD" tvg-logo="" group-title="IR IRAN",IR: GEM FOOD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/143169
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Junior" tvg-logo="" group-title="IR IRAN",IR: GEM Junior
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94531
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM KURD" tvg-logo="" group-title="IR IRAN",IR: GEM KURD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/143170
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM LIFE" tvg-logo="" group-title="IR IRAN",IR: GEM LIFE
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/143173
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Mifa" tvg-logo="" group-title="IR IRAN",IR: GEM Mifa
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94530
+#EXTINF:-1 tvg-id="" tvg-name="IR: Gem ONYX" tvg-logo="" group-title="IR IRAN",IR: Gem ONYX
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94529
+#EXTINF:-1 tvg-id="" tvg-name="IR: Gem River" tvg-logo="" group-title="IR IRAN",IR: Gem River
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94528
+#EXTINF:-1 tvg-id="" tvg-name="IR: Gem Rubix HD" tvg-logo="" group-title="IR IRAN",IR: Gem Rubix HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94527
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM SERIES" tvg-logo="" group-title="IR IRAN",IR: GEM SERIES
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/143175
+#EXTINF:-1 tvg-id="" tvg-name="IR: Nejat TV" tvg-logo="" group-title="IR IRAN",IR: Nejat TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/279608
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM TRAVEL" tvg-logo="" group-title="IR IRAN",IR: GEM TRAVEL
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/145321
+#EXTINF:-1 tvg-id="" tvg-name="IR: Gem TV" tvg-logo="" group-title="IR IRAN",IR: Gem TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94526
+#EXTINF:-1 tvg-id="" tvg-name="IR: MAXX" tvg-logo="" group-title="IR IRAN",IR: MAXX
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/197286
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM USA" tvg-logo="" group-title="IR IRAN",IR: GEM USA
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/197287
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Korea" tvg-logo="" group-title="IR IRAN",IR: GEM Korea
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/197288
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Kids" tvg-logo="" group-title="IR IRAN",IR: GEM Kids
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/197289
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Film" tvg-logo="" group-title="IR IRAN",IR: GEM Film
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/197290
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Drama" tvg-logo="" group-title="IR IRAN",IR: GEM Drama
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/197291
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM 24B HD" tvg-logo="" group-title="IR IRAN",IR: GEM 24B HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301097
+#EXTINF:-1 tvg-id="" tvg-name="IR: Gem Latino" tvg-logo="" group-title="IR IRAN",IR: Gem Latino
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301096
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Comedy" tvg-logo="" group-title="IR IRAN",IR: GEM Comedy
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301095
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Property" tvg-logo="" group-title="IR IRAN",IR: GEM Property
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301094
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Academy HD" tvg-logo="" group-title="IR IRAN",IR: GEM Academy HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301093
+#EXTINF:-1 tvg-id="" tvg-name="IR: Gem Nature" tvg-logo="" group-title="IR IRAN",IR: Gem Nature
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301092
+#EXTINF:-1 tvg-id="" tvg-name="IR: Gem FIT" tvg-logo="" group-title="IR IRAN",IR: Gem FIT
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301091
+#EXTINF:-1 tvg-id="" tvg-name="IR: Hadi TV 3" tvg-logo="" group-title="IR IRAN",IR: Hadi TV 3
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/179552
+#EXTINF:-1 tvg-id="" tvg-name="IR: Honarmandan TV" tvg-logo="" group-title="IR IRAN",IR: Honarmandan TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/162373
+#EXTINF:-1 tvg-id="" tvg-name="IR: Kanal Yek" tvg-logo="" group-title="IR IRAN",IR: Kanal Yek
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/333035
+#EXTINF:-1 tvg-id="" tvg-name="IR: Mohabat" tvg-logo="" group-title="IR IRAN",IR: Mohabat
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/333034
+#EXTINF:-1 tvg-id="" tvg-name="IR: 4MUSIC" tvg-logo="" group-title="IR IRAN",IR: 4MUSIC
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/333032
+#EXTINF:-1 tvg-id="" tvg-name="IR: PRESS TV HD" tvg-logo="" group-title="IR IRAN",IR: PRESS TV HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/333031
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB JAMEJAM 3" tvg-logo="" group-title="IR IRAN",IR: IRIB JAMEJAM 3
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/333030
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB JAMEJAM 2" tvg-logo="" group-title="IR IRAN",IR: IRIB JAMEJAM 2
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/333029
+#EXTINF:-1 tvg-id="" tvg-name="IR: Janato baghie TV" tvg-logo="" group-title="IR IRAN",IR: Janato baghie TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/333028
+#EXTINF:-1 tvg-id="" tvg-name="IR: iFILM" tvg-logo="" group-title="IR IRAN",IR: iFILM
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94524
+#EXTINF:-1 tvg-id="" tvg-name="IR: iFILM [En]" tvg-logo="" group-title="IR IRAN",IR: iFILM [En]
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301101
+#EXTINF:-1 tvg-id="" tvg-name="IR: iFILM One" tvg-logo="" group-title="IR IRAN",IR: iFILM One
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301100
+#EXTINF:-1 tvg-id="NULL" tvg-name="IR: IRAN E FARDA" tvg-logo="" group-title="IR IRAN",IR: IRAN E FARDA
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/92362
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRAN GOLD Star 1" tvg-logo="" group-title="IR IRAN",IR: IRAN GOLD Star 1
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/139983
+#EXTINF:-1 tvg-id="" tvg-name="IR: Iran International" tvg-logo="" group-title="IR IRAN",IR: Iran International
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/179551
+#EXTINF:-1 tvg-id="" tvg-name="IR: Iran International HD" tvg-logo="" group-title="IR IRAN",IR: Iran International HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/139996
+#EXTINF:-1 tvg-id="" tvg-name="IR: Irib 1" tvg-logo="" group-title="IR IRAN",IR: Irib 1
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94521
+#EXTINF:-1 tvg-id="" tvg-name="IR: Irib 2" tvg-logo="" group-title="IR IRAN",IR: Irib 2
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94520
+#EXTINF:-1 tvg-id="" tvg-name="IR: Irib 3" tvg-logo="" group-title="IR IRAN",IR: Irib 3
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94519
+#EXTINF:-1 tvg-id="" tvg-name="IR: Irib 4" tvg-logo="" group-title="IR IRAN",IR: Irib 4
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94518
+#EXTINF:-1 tvg-id="" tvg-name="IR: Irib 5" tvg-logo="" group-title="IR IRAN",IR: Irib 5
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94517
+#EXTINF:-1 tvg-id="" tvg-name="IR: Irib Amoozesh" tvg-logo="" group-title="IR IRAN",IR: Irib Amoozesh
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/150681
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB JAMEJAM 1" tvg-logo="" group-title="IR IRAN",IR: IRIB JAMEJAM 1
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94547
+#EXTINF:-1 tvg-id="" tvg-name="IR: Irib Namayesh" tvg-logo="" group-title="IR IRAN",IR: Irib Namayesh
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94512
+#EXTINF:-1 tvg-id="" tvg-name="IR: Irib Nasim" tvg-logo="" group-title="IR IRAN",IR: Irib Nasim
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94511
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Quran" tvg-logo="" group-title="IR IRAN",IR: IRIB Quran
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/162324
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Varzesh" tvg-logo="" group-title="IR IRAN",IR: IRIB Varzesh
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/150679
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Sablan" tvg-logo="" group-title="IR IRAN",IR: IRIB Sablan
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301106
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Iran Kala" tvg-logo="" group-title="IR IRAN",IR: IRIB Iran Kala
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301117
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB OFOGH TV" tvg-logo="" group-title="IR IRAN",IR: IRIB OFOGH TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301116
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB SALAMAT" tvg-logo="" group-title="IR IRAN",IR: IRIB SALAMAT
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301115
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Shoma TV" tvg-logo="" group-title="IR IRAN",IR: IRIB Shoma TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301114
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Mahabad" tvg-logo="" group-title="IR IRAN",IR: IRIB Mahabad
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301113
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jame Jam" tvg-logo="" group-title="IR IRAN",IR: IRIB Jame Jam
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301112
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Kermansha" tvg-logo="" group-title="IR IRAN",IR: IRIB Kermansha
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301111
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Khalij" tvg-logo="" group-title="IR IRAN",IR: IRIB Khalij
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301110
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Kurdistan" tvg-logo="" group-title="IR IRAN",IR: IRIB Kurdistan
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301109
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Golestan" tvg-logo="" group-title="IR IRAN",IR: IRIB Golestan
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301108
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Omid" tvg-logo="" group-title="IR IRAN",IR: IRIB Omid
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301107
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRINN" tvg-logo="" group-title="IR IRAN",IR: IRINN
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94507
+#EXTINF:-1 tvg-id="" tvg-name="IR: Kalemeh Farsi" tvg-logo="" group-title="IR IRAN",IR: Kalemeh Farsi
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/140000
+#EXTINF:-1 tvg-id="" tvg-name="IR: Khatereh" tvg-logo="" group-title="IR IRAN",IR: Khatereh
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/139999
+#EXTINF:-1 tvg-id="" tvg-name="IR: Manoto" tvg-logo="" group-title="IR IRAN",IR: Manoto
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94504
+#EXTINF:-1 tvg-id="" tvg-name="IR: MBC PERSIA HD" tvg-logo="" group-title="IR IRAN",IR: MBC PERSIA HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94503
+#EXTINF:-1 tvg-id="" tvg-name="IR: MI TV" tvg-logo="" group-title="IR IRAN",IR: MI TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94501
+#EXTINF:-1 tvg-id="" tvg-name="IR: PARS TV" tvg-logo="http://1990.ddns.net/icon/pars_tv.png" group-title="IR IRAN",IR: PARS TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/439
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persian Movie" tvg-logo="" group-title="IR IRAN",IR: Persian Movie
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94497
+#EXTINF:-1 tvg-id="" tvg-name="IR: Cine Film HD" tvg-logo="" group-title="IR IRAN",IR: Cine Film HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301130
+#EXTINF:-1 tvg-id="" tvg-name="IR: Cine Series" tvg-logo="" group-title="IR IRAN",IR: Cine Series
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301129
+#EXTINF:-1 tvg-id="" tvg-name="IR: Cine Series HD" tvg-logo="" group-title="IR IRAN",IR: Cine Series HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301128
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Family HD" tvg-logo="" group-title="IR IRAN",IR: Persiana Family HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301127
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Family + HD" tvg-logo="" group-title="IR IRAN",IR: Persiana Family + HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301126
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Cinema HD" tvg-logo="" group-title="IR IRAN",IR: Persiana Cinema HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301125
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Iranian HD" tvg-logo="" group-title="IR IRAN",IR: Persiana Iranian HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301124
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Music HD" tvg-logo="" group-title="IR IRAN",IR: Persiana Music HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301123
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Turk Music HD" tvg-logo="" group-title="IR IRAN",IR: Persiana Turk Music HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301122
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Junior" tvg-logo="" group-title="IR IRAN",IR: Persiana Junior
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301121
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Plus HD" tvg-logo="" group-title="IR IRAN",IR: Persiana Plus HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301120
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Nostalgia HD" tvg-logo="" group-title="IR IRAN",IR: Persiana Nostalgia HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301118
+#EXTINF:-1 tvg-id="" tvg-name="IR: PMC" tvg-logo="" group-title="IR IRAN",IR: PMC
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94495
+#EXTINF:-1 tvg-id="" tvg-name="IR: PRESS TV" tvg-logo="" group-title="IR IRAN",IR: PRESS TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94541
+#EXTINF:-1 tvg-id="" tvg-name="IR: Rang A Rang TV" tvg-logo="" group-title="IR IRAN",IR: Rang A Rang TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/162370
+#EXTINF:-1 tvg-id="" tvg-name="IR: S7T AFLAM HD" tvg-logo="" group-title="IR IRAN",IR: S7T AFLAM HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/145331
+#EXTINF:-1 tvg-id="" tvg-name="IR: SAHAR (FR-BiH)" tvg-logo="" group-title="IR IRAN",IR: SAHAR (FR-BiH)
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94546
+#EXTINF:-1 tvg-id="" tvg-name="IR: Sahar Urdu" tvg-logo="" group-title="IR IRAN",IR: Sahar Urdu
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94540
+#EXTINF:-1 tvg-id="" tvg-name="IR: Simaye Azadi Iran National TV" tvg-logo="" group-title="IR IRAN",IR: Simaye Azadi Iran National TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94509
+#EXTINF:-1 tvg-id="" tvg-name="IR: Tehran TV HD" tvg-logo="" group-title="IR IRAN",IR: Tehran TV HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94499
+#EXTINF:-1 tvg-id="" tvg-name="IR: TIN TV" tvg-logo="" group-title="IR IRAN",IR: TIN TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/129080
+#EXTINF:-1 tvg-id="" tvg-name="IR: TOLO HD" tvg-logo="" group-title="IR IRAN",IR: TOLO HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/162375
+#EXTINF:-1 tvg-id="" tvg-name="IR: Varzesh TV" tvg-logo="" group-title="IR IRAN",IR: Varzesh TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/162376
+#EXTINF:-1 tvg-id="" tvg-name="IR: VOA Persian" tvg-logo="" group-title="IR IRAN",IR: VOA Persian
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/94493
+#EXTINF:-1 tvg-id="" tvg-name="IR: WATAN TV" tvg-logo="" group-title="IR IRAN",IR: WATAN TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/129076
+#EXTINF:-1 tvg-id="" tvg-name="IR: 24Box HD" tvg-logo="" group-title="IR IRAN",IR: 24Box HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301119
+#EXTINF:-1 tvg-id="" tvg-name="IR: Mostanad HD" tvg-logo="" group-title="IR IRAN",IR: Mostanad HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301104
+#EXTINF:-1 tvg-id="" tvg-name="IR: Tamasha TV" tvg-logo="" group-title="IR IRAN",IR: Tamasha TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301103
+#EXTINF:-1 tvg-id="" tvg-name="IR: Hispan TV" tvg-logo="" group-title="IR IRAN",IR: Hispan TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301098
+#EXTINF:-1 tvg-id="" tvg-name="IR: Varzish" tvg-logo="" group-title="IR IRAN",IR: Varzish
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301090
+#EXTINF:-1 tvg-id="" tvg-name="IR: Radio Farda TV" tvg-logo="" group-title="IR IRAN",IR: Radio Farda TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301089
+#EXTINF:-1 tvg-id="" tvg-name="IR: Radio Javan TV HD" tvg-logo="" group-title="IR IRAN",IR: Radio Javan TV HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301088
+#EXTINF:-1 tvg-id="" tvg-name="IR: Caltex Music FHD" tvg-logo="" group-title="IR IRAN",IR: Caltex Music FHD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301086
+#EXTINF:-1 tvg-id="" tvg-name="IR: AVA Family HD" tvg-logo="" group-title="IR IRAN",IR: AVA Family HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301085
+#EXTINF:-1 tvg-id="" tvg-name="IR: AVA Series HD" tvg-logo="" group-title="IR IRAN",IR: AVA Series HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301084
+#EXTINF:-1 tvg-id="" tvg-name="IR: NAVAHANG TV" tvg-logo="" group-title="IR IRAN",IR: NAVAHANG TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301083
+#EXTINF:-1 tvg-id="" tvg-name="IR: Tapesh TV" tvg-logo="" group-title="IR IRAN",IR: Tapesh TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301082
+#EXTINF:-1 tvg-id="" tvg-name="IR: VOX 1 HD" tvg-logo="" group-title="IR IRAN",IR: VOX 1 HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301081
+#EXTINF:-1 tvg-id="" tvg-name="IR: VOX 2 HD" tvg-logo="" group-title="IR IRAN",IR: VOX 2 HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301080
+#EXTINF:-1 tvg-id="" tvg-name="IR: Bartar HD" tvg-logo="" group-title="IR IRAN",IR: Bartar HD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301078
+#EXTINF:-1 tvg-id="" tvg-name="IR: 4U TV" tvg-logo="" group-title="IR IRAN",IR: 4U TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301077
+#EXTINF:-1 tvg-id="" tvg-name="IR: HODHOD TV" tvg-logo="" group-title="IR IRAN",IR: HODHOD TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301075
+#EXTINF:-1 tvg-id="" tvg-name="IR: SAT 7 Pars" tvg-logo="" group-title="IR IRAN",IR: SAT 7 Pars
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301073
+#EXTINF:-1 tvg-id="" tvg-name="IR: Shabakeh 7" tvg-logo="" group-title="IR IRAN",IR: Shabakeh 7
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301072
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persian Music" tvg-logo="" group-title="IR IRAN",IR: Persian Music
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301071
+#EXTINF:-1 tvg-id="" tvg-name="IR: Khane Film" tvg-logo="" group-title="IR IRAN",IR: Khane Film
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301069
+#EXTINF:-1 tvg-id="" tvg-name="IR: RADIO JAVAN TV" tvg-logo="" group-title="IR IRAN",IR: RADIO JAVAN TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301067
+#EXTINF:-1 tvg-id="" tvg-name="IR: Didgah TV" tvg-logo="" group-title="IR IRAN",IR: Didgah TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301065
+#EXTINF:-1 tvg-id="" tvg-name="IR: Oxir TV" tvg-logo="" group-title="IR IRAN",IR: Oxir TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301064
+#EXTINF:-1 tvg-id="" tvg-name="IR: SAHAR BALKAN" tvg-logo="" group-title="IR IRAN",IR: SAHAR BALKAN
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301063
+#EXTINF:-1 tvg-id="" tvg-name="IR: Sahar Kurdish KRD" tvg-logo="" group-title="IR IRAN",IR: Sahar Kurdish KRD
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301062
+#EXTINF:-1 tvg-id="" tvg-name="IR: KHURSHID TV" tvg-logo="" group-title="IR IRAN",IR: KHURSHID TV
+http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/301061
