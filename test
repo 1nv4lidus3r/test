@@ -1,6 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="-----IRAN-----" tvg-logo="http://picon.webhop.net/logo/flag/ir.png" group-title="IR IRAN",-----IRAN-----
-http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/135959
 #EXTINF:-1 tvg-id="" tvg-name="IR: AL ALAM" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alalam-news-channel-ir.png" group-title="IR IRAN",IR: AL ALAM
 http://it.saiphertv.com:8080/RxAVpRpkOH/IauxhPwF2b/384
 #EXTINF:-1 tvg-id="" tvg-name="IR: ALKAWTHAR" tvg-logo="" group-title="IR IRAN",IR: ALKAWTHAR
