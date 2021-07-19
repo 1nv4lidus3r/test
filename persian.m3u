@@ -22,3 +22,6 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 
 #EXTINF:-1 tvg-name="VARZESH" tvg-id="" group-title="Iran",VARZESH
 https://ss.90minlive.online/live/varzesh-irib3343/chunks.m3u8
+
+#EXTINF:-1 tvg-name="VARZESH" tvg-id="" group-title="Iran",VARZESH
+https://ss.90minlive.online/live/varzesh-irib3343/chunks.m3u8
