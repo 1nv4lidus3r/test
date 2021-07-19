@@ -23,8 +23,5 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 #EXTINF:-1 tvg-name="VARZESH" tvg-id="" group-title="Iran",VARZESH
 https://ss.90minlive.online/live/varzesh-irib3343/chunks.m3u8
 
-#EXTINF:-1 tvg-name="VARZESH" tvg-id="" group-title="Iran",VARZESH
-https://ss.90minlive.online/live/varzesh-irib3343/chunks.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Csznywp.png" group-title="IRAN",Chanel 1
 http://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/index.m3u8
